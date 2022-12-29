@@ -1,4 +1,4 @@
-### Olá, Sou Gustavo Silva, Estudando de Beck end e Front. 🖐️
+### Hello, I'm Gustavo Silva, Studying Beck end and Front end Development. 🖐️💻
 
  📸Looking for the First job vacancy in both DevFront and DevBeck end!
  📚Studying Technologo in Database and Computer Engineering!.
