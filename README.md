@@ -1,7 +1,7 @@
 ### Olá, Sou Gustavo Silva, Estudando de Beck end e Front. 🖐️
 
- 📸Em Busca da Primeira vaga tanto em Front como em Beck end!
- 📚Cursando Tecnologo em Banco de Dados, na Estacio.
+ 📸Looking for the First job vacancy in both DevFront and DevBeck end!
+ 📚Studying Technologo in Database and Computer Engineering!.
  
 <div align="center">
   <a href="https://github.com/DevZorgg">
@@ -12,12 +12,7 @@
 <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  <img align="center" alt="Boot" height="30" width="40"  
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />  
-  <img align="center" alt="MySQL" height="30" width="40"  
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />    
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">    
 </div>
  <br>   
     
