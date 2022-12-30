@@ -3,6 +3,8 @@
  📸Looking for the First job vacancy in both DevFront and DevBeck end!
  📚Studying Technologo in Database and Computer Engineering!.
  
+ 
+ 
 <div align="center">
   <a href="https://github.com/DevZorgg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevZorgg&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
